@@ -1,0 +1,19 @@
+.wrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
+    background-size: cover;
+
+    .player {
+        background-color: rgba(0, 0, 0, 0.5);
+        width: 410px;
+        margin-top: 40px;
+        min-height: 480px;
+        box-shadow: 0px 15px 35px -5px rgb(194, 249, 112, 0.4);
+        border-radius: 20px;
+        padding: 30px;
+        margin-left: 20px;
+    }
+}
